@@ -1,5 +1,5 @@
 <img src='cover.png'>
-<h1 align="center">Hi there, I'm [Avery](https://www.averymclaughlin.com) 👋🏽 I'm a full stack web developer</h1>
+<h1 align="center">Hi there, I'm <a href='https://www.averymclaughlin.com'>Avery</a> 👋🏽 a full stack web developer</h1>
 ###   
 I'm looking to collaborate with others building full-stack web apps.
 
