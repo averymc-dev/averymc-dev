@@ -1,3 +1,5 @@
+<img src='cover.png'>
+
 ### Hi there, I'm [Avery](https://www.averymclaughlin.com)  👋🏽
 
 I'm currently a freelance web developer and I build web sites for local business and communities.
