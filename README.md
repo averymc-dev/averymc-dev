@@ -1,8 +1,13 @@
 <img src='cover.png'>
-<h1 align="center">Hi there, I'm <a href='https://www.averymclaughlin.com'>Avery</a> 👋🏽 a full stack web developer</h1>
-###   
-I'm looking to collaborate with others building full-stack web apps.
 
+<h1 align="center">Hi there, I'm <a href='https://www.averymclaughlin.com'>Avery</a> 👋🏽 a full stack web developer</h1>
+
+<p align="center">
+  Software engineer with front and back-end development experience, QA testing, and network
+  infrastructure. I seek to use tech as a tool to enable positive change for others.
+</p>
+
+See [my website](https://www.averymclaughlin.com/) for more info!
 
 <!--
 **averymc-dev/averymc-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
