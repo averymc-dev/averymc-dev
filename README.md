@@ -1,14 +1,14 @@
-<img src='githubcover.png'>
+<img src='images/githubcover.png'>
 
 <h1 align="center">Hi there, I'm <a href='https://www.averymclaughlin.com'>Avery</a> 👋🏽 a full stack web developer</h1>
 
 
-Software engineer with front and back-end development experience, QA testing, and network
+<p align='center'>Software engineer with front and back-end development experience, QA testing, and network
 infrastructure. I seek to use tech as a tool to enable positive change for others.
 
-See [my website](https://www.averymclaughlin.com/) for more info!
+See [my website](https://www.averymclaughlin.com/) for more info!</p>
 
-<h2>Projects</h2>
+<h2 align='center'>Projects</h2>
 
 <!--
 <table bordercolor="#66b2b2">
@@ -54,14 +54,14 @@ See [my website](https://www.averymclaughlin.com/) for more info!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">AveryMcLaughlin.com</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://averymclaughlin.com">
+          <img src="images/portfolio.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+  <a href="https://github.com/averymc-dev/averymclaughlin" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="http://shawncharles.com" target="_blank">
