@@ -6,7 +6,9 @@
 <p align='center'>Software engineer with front and back-end development experience, QA testing, and network
 infrastructure. I seek to use tech as a tool to enable positive change for others.
 
-See [my website](https://www.averymclaughlin.com/) for more info!</p>
+<p align='center'>
+  See <a href='https://www.averymclaughlin.com/'>my website</a> for more info!
+</p>
 
 <h2 align='center'>Projects</h2>
 
