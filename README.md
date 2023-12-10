@@ -1,13 +1,13 @@
 <img src='images/githubcover.png'>
 
-<h1 align="center">Hi there, I'm <a href='https://www.averymclaughlin.com'>Avery</a> 👋🏽 a full stack web developer</h1>
+<h1 align="center">Hi there, I'm <a href='https://www.averymclaughlin.com' target="_blank">Avery</a> 👋🏽 a full stack web developer</h1>
 
 
 <p align='center'>Software engineer with front and back-end development experience, QA testing, and network
 infrastructure. I seek to use tech as a tool to enable positive change for others.
 
 <p align='center'>
-  See <a href='https://www.averymclaughlin.com/'>my website</a> for more info!
+  See <a href='https://www.averymclaughlin.com/' target="_blank">my website</a> for more info!
 </p>
 
 <h2 align='center'>Projects</h2>
@@ -53,7 +53,7 @@ infrastructure. I seek to use tech as a tool to enable positive change for other
         <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
     </td>
   </tr>
-  
+  -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">AveryMcLaughlin.com</h3>
@@ -66,29 +66,29 @@ infrastructure. I seek to use tech as a tool to enable positive change for other
   <a href="https://github.com/averymc-dev/averymclaughlin" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://shawncharles.com" target="_blank">
+  <a href="http://www.averymclaughlin.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">The Local Pour</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://thelocalpour.netlify.app/">
+          <img src="images/thelocalpour.gif" width="100%" alt="The Local Pour"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+  <a href="https://github.com/averymc-dev/theLocalPour" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
+  <a href="https://thelocalpour.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>HTML5 & CSS3</strong> - This is a landing page for your new local bar hangout that you may come across on a Friday night before going out with friends. </p>
     </td>
   </tr>
 </table>
