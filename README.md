@@ -59,7 +59,7 @@ infrastructure. I seek to use tech as a tool to enable positive change for other
       <h3 align="center">AveryMcLaughlin.com</h3>
       <br />
         <a target="_blank" href="https://averymclaughlin.com">
-          <img src="images/portfolio.gif" width="100%" alt="Portfolio"/>
+          <img src="images/averymclaughlin.png" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -92,7 +92,7 @@ infrastructure. I seek to use tech as a tool to enable positive change for other
     </td>
   </tr>
 </table>
->
+
 <!--
 **averymc-dev/averymc-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
