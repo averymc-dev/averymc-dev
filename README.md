@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm <a href='https://www.averymclaughlin.com' target="_blank">Avery</a> 👋🏽 a full stack web developer</h1>
 
 
-<p align='center'>Software engineer with front and back-end development experience, QA testing, and network
+<p align='center'>Software engineer with front and back-end development experience, and network
 infrastructure. I seek to use tech as a tool to enable positive change for others.
 
 <p align='center'>
